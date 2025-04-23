@@ -1,0 +1,762 @@
+[
+  {
+    "item_name": "Fortune Sunflower Oil",
+    "brand_name": "Fortune",
+    "price": 180,
+    "weight_kg": 1,
+    "volume_ml": 1000,
+    "is_liquid": true,
+    "category": "cooking_oil",
+    "search_tags": ["cooking oil", "खाना पकाने का तेल", "खाने का तेल", "तेल", "fortune", "sunflower oil", "सूरजमुखी तेल"]
+  },
+  {
+    "item_name": "Saffola Gold Oil",
+    "brand_name": "Saffola",
+    "price": 195,
+    "weight_kg": 1,
+    "volume_ml": 1000,
+    "is_liquid": true,
+    "category": "cooking_oil",
+    "search_tags": ["cooking oil", "खाने का तेल", "saffola", "gold oil", "सोने का तेल"]
+  },
+  {
+    "item_name": "Parachute Coconut Hair Oil",
+    "brand_name": "Parachute",
+    "price": 40,
+    "weight_kg": 0.2,
+    "volume_ml": 200,
+    "is_liquid": true,
+    "category": "hair_oil",
+    "search_tags": ["hair oil", "बालों का तेल", "सिर का तेल", "parachute", "coconut oil", "नारियल तेल"]
+  },
+  {
+    "item_name": "Bajaj Almond Drops Hair Oil",
+    "brand_name": "Bajaj",
+    "price": 55,
+    "weight_kg": 0.2,
+    "volume_ml": 200,
+    "is_liquid": true,
+    "category": "hair_oil",
+    "search_tags": ["hair oil", "बालों का तेल", "almond", "bajaj", "almond oil", "बादाम तेल"]
+  },
+  {
+    "item_name": "Indulekha Hair Oil",
+    "brand_name": "Indulekha",
+    "price": 120,
+    "weight_kg": 0.1,
+    "volume_ml": 100,
+    "is_liquid": true,
+    "category": "hair_oil",
+    "search_tags": ["hair oil", "बालों का तेल", "indulekha", "आयुर्वेदिक तेल"]
+  },
+  {
+    "item_name": "MDH Garam Masala",
+    "brand_name": "MDH",
+    "price": 60,
+    "weight_kg": 0.1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "spices",
+    "search_tags": ["garam masala", "गरम मसाला", "mdh", "spices", "मसाले"]
+  },
+  {
+    "item_name": "Everest Red Chilli Powder",
+    "brand_name": "Everest",
+    "price": 45,
+    "weight_kg": 0.1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "spices",
+    "search_tags": ["mirch powder", "मिर्च पाउडर", "लाल मिर्च", "everest", "chilli powder", "लाल मिर्च पाउडर"]
+  },
+  {
+    "item_name": "Catch Turmeric Powder",
+    "brand_name": "Catch",
+    "price": 30,
+    "weight_kg": 0.1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "spices",
+    "search_tags": ["haldi powder", "हल्दी", "हल्दी पाउडर", "catch", "turmeric", "हल्दी"]
+  },
+  {
+    "item_name": "Organic Tattva Jeera",
+    "brand_name": "Organic Tattva",
+    "price": 90,
+    "weight_kg": 0.2,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "spices",
+    "search_tags": ["jeera", "जीरा", "organic tattva", "cumin seeds", "जीरा"]
+  },
+  {
+    "item_name": "Navratna Cool Hair Oil",
+    "brand_name": "Navratna",
+    "price": 60,
+    "weight_kg": 0.2,
+    "volume_ml": 200,
+    "is_liquid": true,
+    "category": "hair_oil",
+    "search_tags": ["hair oil", "बालों का तेल", "navratna", "cool oil", "ठंडा तेल"]
+  },
+  {
+    "item_name": "Dabur Amla Hair Oil",
+    "brand_name": "Dabur",
+    "price": 50,
+    "weight_kg": 0.2,
+    "volume_ml": 200,
+    "is_liquid": true,
+    "category": "hair_oil",
+    "search_tags": ["hair oil", "बालों का तेल", "amla", "dabur", "आंवला तेल"]
+  },
+  {
+    "item_name": "Nihar Naturals Hair Oil",
+    "brand_name": "Nihar",
+    "price": 45,
+    "weight_kg": 0.2,
+    "volume_ml": 200,
+    "is_liquid": true,
+    "category": "hair_oil",
+    "search_tags": ["hair oil", "बालों का तेल", "nihar", "natural oil", "प्राकृतिक तेल"]
+  },
+  {
+    "item_name": "Tata Salt",
+    "brand_name": "Tata",
+    "price": 20,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "essentials",
+    "search_tags": ["salt", "नमक", "tata salt", "टाटा नमक", "common salt", "साधारण नमक"]
+  },
+  {
+    "item_name": "Tata Rock Salt",
+    "brand_name": "Tata",
+    "price": 35,
+    "weight_kg": 0.5,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "essentials",
+    "search_tags": ["rock salt", "सेंधा नमक", "tata", "sendha namak", "सेंधा नमक"]
+  },
+  {
+    "item_name": "Sugar",
+    "brand_name": "Dhampur",
+    "price": 42,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "essentials",
+    "search_tags": ["sugar", "चीनी", "dhampur", "shakkar", "शक्कर", "white sugar", "सफेद चीनी"]
+  },
+  {
+    "item_name": "Brown Sugar",
+    "brand_name": "Organic Tattva",
+    "price": 90,
+    "weight_kg": 0.5,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "essentials",
+    "search_tags": ["brown sugar", "ब्राउन शुगर", "organic", "कच्ची चीनी", "organic sugar"]
+  },
+  {
+    "item_name": "Aashirvaad Atta",
+    "brand_name": "Aashirvaad",
+    "price": 55,
+    "weight_kg": 5,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "flour",
+    "search_tags": ["atta", "आटा", "aashirvaad", "wheat flour", "गेहूं का आटा", "whole wheat flour"]
+  },
+  {
+    "item_name": "Aashirvaad Select Atta",
+    "brand_name": "Aashirvaad",
+    "price": 65,
+    "weight_kg": 5,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "flour",
+    "search_tags": ["atta", "आटा", "select atta", "select flour", "चुनिंदा आटा"]
+  },
+  {
+    "item_name": "Pillsbury Chakki Atta",
+    "brand_name": "Pillsbury",
+    "price": 60,
+    "weight_kg": 5,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "flour",
+    "search_tags": ["atta", "आटा", "pillsbury", "chakki atta", "चक्की आटा", "fresh atta"]
+  },
+  {
+    "item_name": "Besan",
+    "brand_name": "Tata Sampann",
+    "price": 70,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "flour",
+    "search_tags": ["besan", "बेसन", "gram flour", "चने का आटा", "tata sampann"]
+  },
+  {
+    "item_name": "Maida",
+    "brand_name": "Tata Sampann",
+    "price": 40,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "flour",
+    "search_tags": ["maida", "मैदा", "refined flour", "all purpose flour", "सफेद आटा"]
+  },
+  {
+    "item_name": "Suji",
+    "brand_name": "Tata Sampann",
+    "price": 45,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "flour",
+    "search_tags": ["suji", "सूजी", "semolina", "रवा", "sooji", "semolina flour"]
+  },
+  {
+    "item_name": "Basmati Rice",
+    "brand_name": "India Gate",
+    "price": 120,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "rice",
+    "search_tags": ["basmati rice", "बासमती चावल", "india gate", "चावल", "rice", "long grain rice"]
+  },
+  {
+    "item_name": "Sona Masoori Rice",
+    "brand_name": "Kohinoor",
+    "price": 80,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "rice",
+    "search_tags": ["sona masoori", "सोना मसूरी चावल", "kohinoor", "medium grain rice", "चावल"]
+  },
+  {
+    "item_name": "Brown Rice",
+    "brand_name": "Organic Tattva",
+    "price": 150,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "rice",
+    "search_tags": ["brown rice", "ब्राउन राइस", "organic", "चोकर युक्त चावल", "healthy rice"]
+  },
+  {
+    "item_name": "Red Rice",
+    "brand_name": "Organic Tattva",
+    "price": 180,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "rice",
+    "search_tags": ["red rice", "लाल चावल", "organic", "healthy rice", "लाल मटर चावल"]
+  },
+  {
+    "item_name": "Quinoa",
+    "brand_name": "Organic Tattva",
+    "price": 250,
+    "weight_kg": 0.5,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "grains",
+    "search_tags": ["quinoa", "कीनवा", "organic", "healthy grains", "superfood", "क्विनोआ"]
+  },
+  {
+    "item_name": "Toor Dal",
+    "brand_name": "Tata Sampann",
+    "price": 130,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "pulses",
+    "search_tags": ["toor dal", "तूर दाल", "arhar dal", "अरहर दाल", "tata sampann", "pigeon pea"]
+  },
+  {
+    "item_name": "Moong Dal",
+    "brand_name": "Tata Sampann",
+    "price": 110,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "pulses",
+    "search_tags": ["moong dal", "मूंग दाल", "green gram", "हरी मूंग", "split moong", "पीली मूंग"]
+  },
+  {
+    "item_name": "Chana Dal",
+    "brand_name": "Tata Sampann",
+    "price": 90,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "pulses",
+    "search_tags": ["chana dal", "चना दाल", "bengal gram", "चने की दाल", "split chickpeas"]
+  },
+  {
+    "item_name": "Urad Dal",
+    "brand_name": "Tata Sampann",
+    "price": 120,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "pulses",
+    "search_tags": ["urad dal", "उड़द दाल", "black gram", "काली दाल", "split black gram"]
+  },
+  {
+    "item_name": "Masoor Dal",
+    "brand_name": "Tata Sampann",
+    "price": 85,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "pulses",
+    "search_tags": ["masoor dal", "मसूर दाल", "red lentil", "लाल दाल", "split red lentil"]
+  },
+  {
+    "item_name": "Rajma",
+    "brand_name": "Tata Sampann",
+    "price": 140,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "pulses",
+    "search_tags": ["rajma", "राजमा", "kidney beans", "लाल राजमा", "red kidney beans"]
+  },
+  {
+    "item_name": "Chole",
+    "brand_name": "Tata Sampann",
+    "price": 95,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "pulses",
+    "search_tags": ["chole", "चने", "chickpeas", "काबुली चना", "white chana", "काबुली चना"]
+  },
+  {
+    "item_name": "Sabut Moong",
+    "brand_name": "Organic Tattva",
+    "price": 120,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "pulses",
+    "search_tags": ["sabut moong", "साबुत मूंग", "whole green gram", "हरी मूंग", "organic moong"]
+  },
+  {
+    "item_name": "Sabut Urad",
+    "brand_name": "Organic Tattva",
+    "price": 130,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "pulses",
+    "search_tags": ["sabut urad", "साबुत उड़द", "whole black gram", "काला उड़द", "organic urad"]
+  },
+  {
+    "item_name": "Maggi Noodles",
+    "brand_name": "Maggi",
+    "price": 15,
+    "weight_kg": 0.07,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "instant_food",
+    "search_tags": ["maggi", "मैगी", "noodles", "इंस्टेंट नूडल्स", "instant noodles", "2-minute noodles"]
+  },
+  {
+    "item_name": "Top Ramen Noodles",
+    "brand_name": "Top Ramen",
+    "price": 12,
+    "weight_kg": 0.07,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "instant_food",
+    "search_tags": ["top ramen", "टॉप रेमन", "noodles", "इंस्टेंट नूडल्स", "instant food"]
+  },
+  {
+    "item_name": "Yippee Noodles",
+    "brand_name": "Sunfeast",
+    "price": 14,
+    "weight_kg": 0.07,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "instant_food",
+    "search_tags": ["yippee", "यिप्पी", "noodles", "इंस्टेंट नूडल्स", "sunfeast", "instant noodles"]
+  },
+  {
+    "item_name": "Knorr Soup",
+    "brand_name": "Knorr",
+    "price": 25,
+    "weight_kg": 0.05,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "instant_food",
+    "search_tags": ["knorr", "नॉर", "soup", "सूप", "instant soup", "इंस्टेंट सूप"]
+  },
+  {
+    "item_name": "Bru Instant Coffee",
+    "brand_name": "Bru",
+    "price": 200,
+    "weight_kg": 0.1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "beverages",
+    "search_tags": ["bru", "ब्रू", "coffee", "कॉफी", "instant coffee", "इंस्टेंट कॉफी"]
+  },
+  {
+    "item_name": "Nescafe Classic Coffee",
+    "brand_name": "Nescafe",
+    "price": 250,
+    "weight_kg": 0.1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "beverages",
+    "search_tags": ["nescafe", "नेस्कैफ़े", "coffee", "कॉफी", "classic coffee", "इंस्टेंट कॉफी"]
+  },
+  {
+    "item_name": "Tata Tea Gold",
+    "brand_name": "Tata",
+    "price": 180,
+    "weight_kg": 0.25,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "beverages",
+    "search_tags": ["tata tea", "टाटा टी", "tea", "चाय", "tea leaves", "टी लीव्स"]
+  },
+  {
+    "item_name": "Taj Mahal Tea",
+    "brand_name": "Tata",
+    "price": 220,
+    "weight_kg": 0.25,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "beverages",
+    "search_tags": ["taj mahal", "ताज महल", "tea", "चाय", "premium tea", "टी लीव्स"]
+  },
+  {
+    "item_name": "Red Label Tea",
+    "brand_name": "Brooke Bond",
+    "price": 150,
+    "weight_kg": 0.25,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "beverages",
+    "search_tags": ["red label", "रेड लेबल", "tea", "चाय", "tea leaves", "ब्रुक बॉन्ड"]
+  },
+  {
+    "item_name": "Green Tea",
+    "brand_name": "Lipton",
+    "price": 200,
+    "weight_kg": 0.1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "beverages",
+    "search_tags": ["green tea", "ग्रीन टी", "lipton", "हरी चाय", "healthy tea", "स्वास्थ्य चाय"]
+  },
+  {
+    "item_name": "Horlicks",
+    "brand_name": "Horlicks",
+    "price": 300,
+    "weight_kg": 0.5,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "health_drinks",
+    "search_tags": ["horlicks", "हॉर्लिक्स", "health drink", "स्वास्थ्य पेय", "malt drink", "माल्ट ड्रिंक"]
+  },
+  {
+    "item_name": "Bournvita",
+    "brand_name": "Cadbury",
+    "price": 280,
+    "weight_kg": 0.5,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "health_drinks",
+    "search_tags": ["bournvita", "बॉर्नविटा", "health drink", "स्वास्थ्य पेय", "chocolate drink", "चॉकलेट ड्रिंक"]
+  },
+  {
+    "item_name": "Complan",
+    "brand_name": "Heinz",
+    "price": 320,
+    "weight_kg": 0.5,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "health_drinks",
+    "search_tags": ["complan", "कॉम्पलान", "health drink", "स्वास्थ्य पेय", "growth drink", "विकास पेय"]
+  },
+  {
+    "item_name": "Boost",
+    "brand_name": "GlaxoSmithKline",
+    "price": 290,
+    "weight_kg": 0.5,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "health_drinks",
+    "search_tags": ["boost", "बूस्ट", "health drink", "स्वास्थ्य पेय", "energy drink", "ऊर्जा पेय"]
+  },
+  {
+    "item_name": "Amul Taaza Milk",
+    "brand_name": "Amul",
+    "price": 60,
+    "weight_kg": null,
+    "volume_ml": 1000,
+    "is_liquid": true,
+    "category": "dairy",
+    "search_tags": ["amul", "अमूल", "milk", "दूध", "taaza", "ताजा दूध", "fresh milk"]
+  },
+  {
+    "item_name": "Amul Gold Milk",
+    "brand_name": "Amul",
+    "price": 70,
+    "weight_kg": null,
+    "volume_ml": 1000,
+    "is_liquid": true,
+    "category": "dairy",
+    "search_tags": ["amul gold", "अमूल गोल्ड", "milk", "दूध", "full cream milk", "फुल क्रीम दूध"]
+  },
+  {
+    "item_name": "Amul Butter",
+    "brand_name": "Amul",
+    "price": 50,
+    "weight_kg": 0.1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "dairy",
+    "search_tags": ["amul", "अमूल", "butter", "मक्खन", "white butter", "सफेद मक्खन"]
+  },
+  {
+    "item_name": "Amul Cheese",
+    "brand_name": "Amul",
+    "price": 110,
+    "weight_kg": 0.2,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "dairy",
+    "search_tags": ["amul", "अमूल", "cheese", "पनीर", "processed cheese", "प्रोसेस्ड चीज़"]
+  },
+  {
+    "item_name": "Amul Paneer",
+    "brand_name": "Amul",
+    "price": 90,
+    "weight_kg": 0.2,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "dairy",
+    "search_tags": ["amul", "अमूल", "paneer", "पनीर", "cottage cheese", "कॉटेज चीज़"]
+  },
+  {
+    "item_name": "Mother Dairy Curd",
+    "brand_name": "Mother Dairy",
+    "price": 40,
+    "weight_kg": 0.5,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "dairy",
+    "search_tags": ["mother dairy", "मदर डेयरी", "curd", "दही", "yogurt", "योगर्ट"]
+  },
+  {
+    "item_name": "Mother Dairy Ghee",
+    "brand_name": "Mother Dairy",
+    "price": 500,
+    "weight_kg": 1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "dairy",
+    "search_tags": ["mother dairy", "मदर डेयरी", "ghee", "घी", "clarified butter", "शुद्ध घी"]
+  },
+  {
+    "item_name": "Nestle A+ Toned Milk",
+    "brand_name": "Nestle",
+    "price": 65,
+    "weight_kg": null,
+    "volume_ml": 1000,
+    "is_liquid": true,
+    "category": "dairy",
+    "search_tags": ["nestle", "नेस्ले", "milk", "दूध", "toned milk", "टोंड दूध"]
+  },
+  {
+    "item_name": "Go Cheese",
+    "brand_name": "Go",
+    "price": 120,
+    "weight_kg": 0.2,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "dairy",
+    "search_tags": ["go", "गो", "cheese", "चीज़", "processed cheese", "प्रोसेस्ड चीज़"]
+  },
+  {
+    "item_name": "Britannia Cheese",
+    "brand_name": "Britannia",
+    "price": 115,
+    "weight_kg": 0.2,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "dairy",
+    "search_tags": ["britannia", "ब्रिटानिया", "cheese", "चीज़", "processed cheese", "प्रोसेस्ड चीज़"]
+  },
+  {
+    "item_name": "Britannia Milk Bread",
+    "brand_name": "Britannia",
+    "price": 45,
+    "weight_kg": 0.4,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "bakery",
+    "search_tags": ["britannia", "ब्रिटानिया", "bread", "ब्रेड", "milk bread", "दूध ब्रेड"]
+  },
+  {
+    "item_name": "Britannia Brown Bread",
+    "brand_name": "Britannia",
+    "price": 50,
+    "weight_kg": 0.4,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "bakery",
+    "search_tags": ["britannia", "ब्रिटानिया", "bread", "ब्रेड", "brown bread", "ब्राउन ब्रेड"]
+  },
+  {
+    "item_name": "Britannia Whole Wheat Bread",
+    "brand_name": "Britannia",
+    "price": 55,
+    "weight_kg": 0.4,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "bakery",
+    "search_tags": ["britannia", "ब्रिटानिया", "bread", "ब्रेड", "whole wheat", "गेहूं की ब्रेड"]
+  },
+  {
+    "item_name": "Britannia Cake",
+    "brand_name": "Britannia",
+    "price": 30,
+    "weight_kg": 0.075,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "bakery",
+    "search_tags": ["britannia", "ब्रिटानिया", "cake", "केक", "fruit cake", "फ्रूट केक"]
+  },
+  {
+    "item_name": "Britannia Good Day Cookies",
+    "brand_name": "Britannia",
+    "price": 25,
+    "weight_kg": 0.075,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "bakery",
+    "search_tags": ["britannia", "ब्रिटानिया", "cookies", "कुकीज़", "good day", "गुड डे"]
+  },
+  {
+    "item_name": "Britannia Marie Gold",
+    "brand_name": "Britannia",
+    "price": 20,
+    "weight_kg": 0.1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "bakery",
+    "search_tags": ["britannia", "ब्रिटानिया", "marie", "मैरी", "biscuits", "बिस्कुट"]
+  },
+  {
+    "item_name": "Parle-G Biscuits",
+    "brand_name": "Parle",
+    "price": 10,
+    "weight_kg": 0.1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "bakery",
+    "search_tags": ["parle-g", "पारले-जी", "biscuits", "बिस्कुट", "glucose biscuits", "ग्लूकोज बिस्कुट"]
+  },
+  {
+    "item_name": "Hide & Seek Biscuits",
+    "brand_name": "Parle",
+    "price": 30,
+    "weight_kg": 0.1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "bakery",
+    "search_tags": ["hide & seek", "हाइड एंड सीक", "biscuits", "बिस्कुट", "chocolate biscuits", "चॉकलेट बिस्कुट"]
+  },
+  {
+    "item_name": "Sunfeast Dark Fantasy",
+    "brand_name": "Sunfeast",
+    "price": 35,
+    "weight_kg": 0.075,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "bakery",
+    "search_tags": ["sunfeast", "सनफीस्ट", "dark fantasy", "डार्क फैंटेसी", "biscuits", "बिस्कुट"]
+  },
+  {
+    "item_name": "Oreo Biscuits",
+    "brand_name": "Oreo",
+    "price": 30,
+    "weight_kg": 0.1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "bakery",
+    "search_tags": ["oreo", "ओरियो", "biscuits", "बिस्कुट", "cream biscuits", "क्रीम बिस्कुट"]
+  },
+  {
+    "item_name": "Lays Potato Chips",
+    "brand_name": "Lays",
+    "price": 20,
+    "weight_kg": 0.04,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "snacks",
+    "search_tags": ["lays", "लेज़", "chips", "चिप्स", "potato chips", "आलू चिप्स"]
+  },
+  {
+    "item_name": "Kurkure",
+    "brand_name": "Kurkure",
+    "price": 20,
+    "weight_kg": 0.05,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "snacks",
+    "search_tags": ["kurkure", "कुरकुरे", "snacks", "स्नैक्स", "namkeen", "नमकीन"]
+  },
+  {
+    "item_name": "Bingo Mad Angles",
+    "brand_name": "Bingo",
+    "price": 20,
+    "weight_kg": 0.05,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "snacks",
+    "search_tags": ["bingo", "बिंगो", "mad angles", "मैड एंगल्स", "snacks", "स्नैक्स"]
+  },
+  {
+    "item_name": "Haldiram's Bhujia",
+    "brand_name": "Haldiram's",
+    "price": 30,
+    "weight_kg": 0.1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "snacks",
+    "search_tags": ["haldiram's", "हल्दीराम", "bhujia", "भुजिया", "namkeen", "नमकीन"]
+  },
+  {
+    "item_name": "Haldiram's Aloo Bhujia",
+    "brand_name": "Haldiram's",
+    "price": 35,
+    "weight_kg": 0.1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "snacks",
+    "search_tags": ["haldiram's", "हल्दीराम", "aloo bhujia", "आलू भुजिया", "namkeen", "नमकीन"]
+  },
+  {
+    "item_name": "Haldiram's Moong Dal",
+    "brand_name": "Haldiram's",
+    "price": 40,
+    "weight_kg": 0.1,
+    "volume_ml": null,
+    "is_liquid": false,
+    "category": "snacks",
+    "search_tags": ["haldiram's", "हल्दीराम", "moong dal", "मूंग दाल", "namkeen", "नमकीन"]
+  }
+]
